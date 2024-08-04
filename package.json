@@ -1,5 +1,5 @@
 {
-  "name": "feedor",
+  "name": "Zipform",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,9 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "^2.1.5",
+    "@web3modal/wagmi": "^5.0.11",
+    "lucide-react": "^0.424.0",
+    "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "next": "latest"
+    "react-helmet": "^6.1.0",
+    "shadcn-ui": "^0.8.0",
+    "tailwind-merge": "^2.4.0",
+    "tailwindcss-animate": "^1.0.7",
+    "web3modal": "^1.9.12"
   },
   "devDependencies": {
     "typescript": "latest",
