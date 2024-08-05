@@ -38,14 +38,14 @@ export default function Example() {
             <p className="text-base font-semibold leading-7 text-orange-600">Make giving feedback fun ...</p>
             <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Engage Users, Gain Insights</h1>
             <p className="mt-6 text-xl leading-8 text-gray-700">
-              <strong>Zipform</strong> transforms feedback collection into an exciting game. Boost user participation, gather valuable insights, and continuously improve your product with the power of gamified feedback.
+              <strong>Zesty</strong> transforms feedback collection into an exciting game. Boost user participation, gather valuable insights, and continuously improve your product with the power of gamified feedback.
             </p>
           </div>
         </div>
       </div>
       <div className="-ml-12 -mt-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
         <Image
-          alt="<strong>Zipform</strong> Dashboard"
+          alt="<strong>Zesty</strong> Dashboard"
           src="/ogBlurred.png"
           width={1824}
           height={1080}
@@ -58,7 +58,7 @@ export default function Example() {
         <div className="lg:pr-4">
           <div className="max-w-xl text-base leading-7 text-gray-700 lg:max-w-lg">
             <p>
-              <strong>Zipform</strong> revolutionizes the feedback process by turning it into an engaging experience. Our platform seamlessly integrates with your product, creating a win-win scenario where users enjoy providing feedback and companies receive valuable, actionable data.
+              <strong>Zesty</strong> revolutionizes the feedback process by turning it into an engaging experience. Our platform seamlessly integrates with your product, creating a win-win scenario where users enjoy providing feedback and companies receive valuable, actionable data.
             </p>
             <ul role="list" className="mt-8 space-y-8 text-gray-600">
               <li className="flex gap-x-3">
@@ -81,11 +81,11 @@ export default function Example() {
               </li>
             </ul>
             <p className="mt-8">
-              With <strong>Zipform</strong>, you're not just collecting feedback; you're creating an ecosystem of engaged users who are invested in your product's growth. Our platform ensures that giving feedback is no longer a chore, but an enjoyable part of the user experience.
+              With <strong>Zesty</strong>, you're not just collecting feedback; you're creating an ecosystem of engaged users who are invested in your product's growth. Our platform ensures that giving feedback is no longer a chore, but an enjoyable part of the user experience.
             </p>
             <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">Seamless Integration, Powerful Results</h2>
             <p className="mt-6">
-              Implementing <strong>Zipform</strong> is effortless. Simply create a feedback form, tell us what you want to know from your users, choose how you are going to reward them and we'll take care of the rest. We will make sure your project will receive the feedback it needs to grow and succeed.
+              Implementing <strong>Zesty</strong> is effortless. Simply create a feedback form, tell us what you want to know from your users, choose how you are going to reward them and we'll take care of the rest. We will make sure your project will receive the feedback it needs to grow and succeed.
             </p>
           </div>
         </div>
