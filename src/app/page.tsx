@@ -21,7 +21,7 @@ export default function HomePage() {
       <GradientBackground>
         <header className="bg-white shadow-md">
           <div className="container mx-auto px-4 py-6 flex justify-between items-center">
-            <h1 className="text-3xl font-bold text-orange-600">Zesty</h1>
+            <h1 className="text-3xl font-bold text-orange-600">Feedward</h1>
             <nav>
               <a href="#features" className="text-orange-600 hover:text-orange-800 mx-4">
                 Features
@@ -129,7 +129,7 @@ export default function HomePage() {
 
         <footer className="bg-gradient-to-r from-orange-500 to-orange-600 text-white py-8">
           <div className="container mx-auto px-4 text-center">
-            <p>&copy; 2024 Zesty. All rights reserved.</p>
+            <p>&copy; 2024 Feedward. All rights reserved.</p>
           </div>
         </footer>
       </GradientBackground>

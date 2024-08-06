@@ -40,15 +40,16 @@ export default function Example() {
                 Engage Users, Gain Insights
               </h1>
               <p className="mt-6 text-xl leading-8 text-gray-700">
-                <strong>Zesty</strong> transforms feedback collection into an exciting game. Boost user participation,
-                gather valuable insights, and continuously improve your product with the power of gamified feedback.
+                <strong>Feedward</strong> transforms feedback collection into an exciting game. Boost user
+                participation, gather valuable insights, and continuously improve your product with the power of
+                gamified feedback.
               </p>
             </div>
           </div>
         </div>
         <div className="-ml-12 -mt-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
           <Image
-            alt="<strong>Zesty</strong> Dashboard"
+            alt="<strong>Feedward</strong> Dashboard"
             src="/ogBlurred.png"
             width={1824}
             height={1080}
@@ -84,7 +85,7 @@ export default function Example() {
                 </li>
               </ul>
               <p className="mt-8">
-                With <strong>Zesty</strong>, you're not just collecting feedback; you're creating an ecosystem of
+                With <strong>Feedward</strong>, you're not just collecting feedback; you're creating an ecosystem of
                 engaged users who are invested in your product's growth. Our platform ensures that giving feedback is no
                 longer a chore, but an enjoyable part of the user experience.
               </p>
