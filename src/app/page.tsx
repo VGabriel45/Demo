@@ -21,14 +21,14 @@ export default function HomePage() {
       <GradientBackground>
         <header className="bg-white shadow-md">
           <div className="container mx-auto px-4 py-6 flex justify-between items-center">
-            <h1 className="text-3xl font-bold text-orange-600">Feedward</h1>
+            <img src="/feedwardl.png" alt="Feedward" className="w-36" />
             <nav>
               <a href="#features" className="text-orange-600 hover:text-orange-800 mx-4">
                 Features
               </a>
-              <button className="bg-gradient-to-r from-orange-500 to-orange-600 text-white px-4 py-2 rounded-full hover:from-orange-600 hover:to-orange-700 transition duration-300">
+              <a href="#cta" className="button bg-gradient-to-r from-orange-500 to-orange-600 text-white px-4 py-2 rounded-full hover:from-orange-600 hover:to-orange-700 transition duration-300">
                 Get Started
-              </button>
+              </a>
             </nav>
           </div>
         </header>
