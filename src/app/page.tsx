@@ -109,7 +109,7 @@ export default function HomePage() {
           <section className="text-center mx-auto max-w-4xl px-4 py-32" id="cta">
             <h2 className="text-3xl font-bold text-gray-800 mb-6">Ready to Revolutionize Your Feedback Process?</h2>
             <p className="text-xl text-gray-600 mb-8">
-              Be one of the first projects to join our Waitlist and receive a 50% discount for 3 months.
+              Be one of the first projects to join our Waitlist and get early access to our platform.
             </p>
 
             <Script id="waitlist-css" dangerouslySetInnerHTML={{ __html: cssLoader }} />
